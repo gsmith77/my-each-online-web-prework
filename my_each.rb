@@ -3,4 +3,7 @@ def my_each(array)
   
   while i=0
   yield 
+  i+=1
+end
+array
 end
